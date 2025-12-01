@@ -1,0 +1,11 @@
+This project demonstrates how to connect to a public API using JavaScript fetch().
+It retrieves real-time weather data from OpenWeatherMap using an API key.
+
+Data extracted from JSON:
+- Temperature
+- Weather description
+- Humidity
+- Wind speed
+- Sunrise and sunset times
+
+This project follows API documentation provided by OpenWeatherMap.
